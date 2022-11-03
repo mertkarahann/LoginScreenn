@@ -34,18 +34,19 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Segoe UI", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(37, 112);
+            this.label1.Location = new System.Drawing.Point(42, 149);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(289, 55);
+            this.label1.Size = new System.Drawing.Size(404, 73);
             this.label1.TabIndex = 1;
             this.label1.Text = "Giriş Yapılamadı";
             // 
             // Form4
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(359, 296);
+            this.ClientSize = new System.Drawing.Size(410, 395);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form4";

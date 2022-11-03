@@ -16,6 +16,5 @@ C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\
 C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\obj\Debug\net6.0-windows\gırısEkranı.genruntimeconfig.cache
 C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\obj\Debug\net6.0-windows\ref\gırısEkranı.dll
 C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\obj\Debug\net6.0-windows\gırısEkranı.Giriş.resources
-C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\obj\Debug\net6.0-windows\gırısEkranı.bool.resources
 C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\obj\Debug\net6.0-windows\gırısEkranı.Properties.Resources.resources
 C:\Users\mert_\OneDrive\Masaüstü\Visualprojeler\gırısEkranı\gırısEkranı\obj\Debug\net6.0-windows\gırısEkranı.Form4.resources
